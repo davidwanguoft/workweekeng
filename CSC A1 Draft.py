@@ -1,21 +1,3 @@
-"""3.3.5 (v3.3.5:62cf4e77f785, Mar  9 2014, 10:37:12) [MSC v.1600 32 bit (Intel)]
-Python Type "help", "copyright", "credits" or "license" for more information.
-[evaluate untitled-4.py]"""
-
-"""The Student Life Simulator starter code.
-You should complete every incomplete function,
-and add more functions and variables as needed.
-Also add comments as required.
-
-Note that incomplete functions have 'pass' as the first statement:
-pass is a Python keyword; it is a statement that does nothing.
-This is a placeholder that you should remove once you modify the function.
-
-Author: Michael Guerzhoy.  Last modified: Sept. 22, 2014
-
-"""
-
-
 # The total number of hours from 12AM Monday to 5PM Friday.
 HOURS_IN_WEEK = 24 * 5 - 7
 
